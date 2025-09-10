@@ -1,0 +1,270 @@
+{
+    "id": "KStufe1",
+    "title": [
+      {
+        "lang": "de",
+        "value": "Kompetenzstufenmodelle"
+      }
+    ],
+    "csv_delimiter": ",",
+    "base": "https://w3id.org/iqb/v71",
+    "outDir": "./",
+    "creator": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+    "vocabularies": [
+      {
+        "id": "di1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Lesen – mit Texten und Medien umgehen"
+          }
+        ],
+        "filenameSource": "di1_Deutsch_HSA_MSA_Lesen.csv",
+        "filenameTarget": "di1_Deutsch_HSA_MSA_Lesen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "di2",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Sprechen und Zuhören, Teilbereich Zuhören"
+          }
+        ],
+        "filenameSource": "di2_Deutsch_HSA_MSA_Zuhoeren.csv",
+        "filenameTarget": "di2_Deutsch_HSA_MSA_Zuhoeren.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "di3",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Teilbereich Orthografie – Rechtschreiben"
+          }
+        ],
+        "filenameSource": "di3_Deutsch_HSA_MSA_Orthografie.csv",
+        "filenameTarget": "di3_Deutsch_HSA_MSA_Orthografie.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "dm1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Mittleren Schulabschluss"
+          }
+        ],
+        "filenameSource": "dm1_Deutsch_MSA_Sprachgebrauch.csv",
+        "filenameTarget": "dm1_Deutsch_MSA_Sprachgebrauch.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "dm2",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodelle zu den Bildungsstandards im Kompetenzbereich Schreiben, Teilbereich freies Schreiben für den Mittleren Schulabschluss"
+          }
+        ],
+        "filenameSource": "dm2_Deutsch_MSA_Schreiben.csv",
+        "filenameTarget": "dm2_Deutsch_MSA_Schreiben.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "dp1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Sprechen und Zuhören“ – Primarbereich –"
+          }
+        ],
+        "filenameSource": "dp1_Deutsch_Primar_Zuhoeren.csv",
+        "filenameTarget": "dp1_Deutsch_Primar_Zuhoeren.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "dp2",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Lesen – mit Texten und Medien umgehen“ – Primarbereich –"
+          }
+        ],
+        "filenameSource": "dp2_Deutsch_Primar_Lesen.csv",
+        "filenameTarget": "dp2_Deutsch_Primar_Lesen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "dp3",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Schreiben“, Teilbereich „Rechtschreibung“ – Primarbereich –"
+          }
+        ],
+        "filenameSource": "dp3_Deutsch_Primar_Rechtschreibung.csv",
+        "filenameTarget": "dp3_Deutsch_Primar_Rechtschreibung.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "dp4",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards im Fach Deutsch im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Primarbereich"
+          }
+        ],
+        "filenameSource": "dp4_Deutsch_Primar_Sprachgebrauch.csv",
+        "filenameTarget": "dp4_Deutsch_Primar_Sprachgebrauch.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "ei1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Hörverstehen -"
+          }
+        ],
+        "filenameSource": "ei1_Englisch_HSA_MSA_Hoerverstehen.csv",
+        "filenameTarget": "ei1_Englisch_HSA_MSA_Hoerverstehen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "ei2",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Leseverstehen -"
+          }
+        ],
+        "filenameSource": "ei2_Englisch_HSA_MSA_Leseverstehen.csv",
+        "filenameTarget": "ei2_Englisch_HSA_MSA_Leseverstehen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "fm1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss -Hörverstehen-"
+          }
+        ],
+        "filenameSource": "fm1_Franzoesisch_MSA_Hoerverstehen.csv",
+        "filenameTarget": "fm1_Franzoesisch_MSA_Hoerverstehen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "fm2",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodelle zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss - Leseverstehen -"
+          }
+        ],
+        "filenameSource": "fm2_Franzoesisch_MSA_Leseverstehen.csv",
+        "filenameTarget": "fm2_Franzoesisch_MSA_Leseverstehen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "id": "mi1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Mathematik"
+          }
+        ],
+        "filenameSource": "mi1_Mathematik_HSA_MSA_Globalmodell.csv",
+        "filenameTarget": "mi1_Mathematik_HSA_MSA_Globalmodell.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards für den Mittleren Schulabschluss im Fach Mathematik"
+          }
+        ]
+      },
+      {
+        "id": "mp1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards im Fach Mathematik für den Primarbereich (Jahrgangsstufe 4)"
+          }
+        ],
+        "filenameSource": "mp1_Mathematik_Primar_Globalmodell.csv",
+        "filenameTarget": "mp1_Mathematik_Primar_Globalmodell.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "Kompetenzstufenmodell zu den Bildungsstandards im Fach Mathematik für den Primarbereich (Jahrgangsstufe 4). Globalmodell"
+          }
+        ]
+      }
+    ]
+  }

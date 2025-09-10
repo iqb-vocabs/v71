@@ -1,0 +1,23 @@
+{
+  "name": "v71",
+  "version": "0.1.0",
+  "description": "Kompetenzenmodelle",
+  "main": "index.js",
+  "scripts": {
+    "run_id": "addidcsv csv",
+    "run_ttl": "csv2ttl csv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iqb-vocabs/v71.git"
+  },
+  "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iqb-vocabs/v71/issues"
+  },
+  "homepage": "https://github.com/iqb-vocabs/v71#readme",
+  "dependencies": {
+    "@iqb/csv2ttl": "^0.8.3"
+  }
+}
