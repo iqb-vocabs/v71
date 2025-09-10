@@ -3,41 +3,81 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix n0: <https://w3id.org/iqb/v71/dp2/>. 
 
+n0:x6b
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "1.1";
+	skos:broader n0:r7f;
+	skos:prefLabel "unter Minderstandard"@de.
 n0:r7f
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "1";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe I"@de; 
-	skos:definition "explizit angegebene Einzelinformationen identifizieren"@de.
+	skos:prefLabel "Kompetenzstufe I (Punktwerte unter 390)"@de; 
+	skos:definition "explizit angegebene Einzelinformationen identifizieren"@de;
+	skos:narrower 
+		n0:x6b.
+n0:v9v
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "2.1";
+	skos:broader n0:q6e;
+	skos:prefLabel "Minderstandard"@de.
 n0:q6e
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe II"@de; 
-	skos:definition "benachbarte Informationen miteinander verknüpfen"@de.
+	skos:prefLabel "Kompetenzstufe II (von 390 bis 464 Punkten)"@de; 
+	skos:definition "benachbarte Informationen miteinander verknüpfen"@de;
+	skos:narrower 
+		n0:v9v.
+n0:z4x
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "3.1";
+	skos:broader n0:r2x;
+	skos:prefLabel "Regelstandard"@de.
 n0:r2x
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "3";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe III"@de; 
-	skos:definition "verstreute Informationen miteinander verknüpfen und den Text ansatzweise als ganzen erfassen"@de.
+	skos:prefLabel "Kompetenzstufe III (465 bis 539 Punkten)"@de; 
+	skos:definition "verstreute Informationen miteinander verknüpfen und den Text ansatzweise als ganzen erfassen"@de;
+	skos:narrower 
+		n0:z4x.
+n0:p2h
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "4.1";
+	skos:broader n0:t5h;
+	skos:prefLabel "Regelstandard plus"@de.
 n0:t5h
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "4";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe IV"@de; 
-	skos:definition "für die Herstellung von Kohärenz auf der Ebene des Textes wesentliche Aspekte erfassen"@de.
+	skos:prefLabel "Kompetenzstufe IV (540 bis 614 Punkten)"@de; 
+	skos:definition "für die Herstellung von Kohärenz auf der Ebene des Textes wesentliche Aspekte erfassen"@de;
+	skos:narrower 
+		n0:p2h.
+n0:x9p
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "5.1";
+	skos:broader n0:f9v;
+	skos:prefLabel "Optimalstandard"@de.
 n0:f9v
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "5";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe V"@de; 
-	skos:definition "auf zentrale Aspekte des Textes bezogene Aussagen selbstständig begründen"@de.
+	skos:prefLabel "Kompetenzstufe V (615 Punkten und mehr)"@de; 
+	skos:definition "auf zentrale Aspekte des Textes bezogene Aussagen selbstständig begründen"@de;
+	skos:narrower 
+		n0:x9p.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;

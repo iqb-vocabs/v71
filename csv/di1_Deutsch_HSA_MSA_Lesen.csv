@@ -1,7 +1,19 @@
 "notation","title","description","id","title_en","description_en"
-"","Kompetenzstufe Ia","Lokalisieren und Wiedergeben prominenter Einzelinformationen","e7f",,
-"","Kompetenzstufe Ib","Benachbarte Informationen miteinander verknüpfen","z4c",,
-"","Kompetenzstufe II","Informationen miteinander verknüpfen und Textstrukturen erfassen","g4r",,
-"","Kompetenzstufe III","Verstreute Informationen miteinander verknüpfen und den Text ansatzweise als Ganzen erfassen","g6p",,
-"","Kompetenzstufe IV","Auf der Ebene des Textes wesentliche Zusammenhänge erkennen und die Textgestaltung reflektieren","t7p",,
-"","Kompetenzstufe V","Interpretieren, Begründen und Bewerten","r9s",,
+"1","Kompetenzstufe Ia (bis 349 Punkte)","Lokalisieren und Wiedergeben prominenter Einzelinformationen","e7f","",""
+"1.1","unter Minderstandard HSA","","y6y","",""
+"1.2","unter Minderstandard MSA","","c3u","",""
+"2","Kompetenzstufe Ib (350 bis 419 Punkte)","Benachbarte Informationen miteinander verknüpfen","z4c","",""
+"2.1","Minderstandard HSA","","s3x","",""
+"2.2","unter Minderstandard MSA","","q5v","",""
+"3","Kompetenzstufe II (420 bis 499 Punkte)","Informationen miteinander verknüpfen und Textstrukturen erfassen","g4r","",""
+"3.1","Regelstandard HSA","","x4d","",""
+"3.2","Minderstandard MSA","","g3v","",""
+"4","Kompetenzstufe III (500 bis 579 Punkte)","Verstreute Informationen miteinander verknüpfen und den Text ansatzweise als Ganzen erfassen","g6p","",""
+"4.1","Regelstandard plus HSA","","v7f","",""
+"4.2","Regelstandard  MSA","","y4b","",""
+"5","Kompetenzstufe IV (580 bis 659 Punkte)","Auf der Ebene des Textes wesentliche Zusammenhänge erkennen und die Textgestaltung reflektieren","t7p","",""
+"5.1","Optimalstandard HSA","","f2y","",""
+"5.2","Regelstandard plus MSA","","p7h","",""
+"6","Kompetenzstufe V (ab 660 Punkten)","Interpretieren, Begründen und Bewerten","r9s","",""
+"6.1","Optimalstandard HSA","","y7h","",""
+"6.2","Optimalstandard MSA","","t6c","",""

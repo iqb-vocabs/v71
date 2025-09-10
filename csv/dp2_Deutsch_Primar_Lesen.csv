@@ -1,6 +1,11 @@
 "notation","title","description","id","title_en","description_en"
-"","Kompetenzstufe I","explizit angegebene Einzelinformationen identifizieren","r7f",,
-"","Kompetenzstufe II","benachbarte Informationen miteinander verknüpfen","q6e",,
-"","Kompetenzstufe III","verstreute Informationen miteinander verknüpfen und den Text ansatzweise als ganzen erfassen","r2x",,
-"","Kompetenzstufe IV","für die Herstellung von Kohärenz auf der Ebene des Textes wesentliche Aspekte erfassen","t5h",,
-"","Kompetenzstufe V","auf zentrale Aspekte des Textes bezogene Aussagen selbstständig begründen","f9v",,
+"1","Kompetenzstufe I (Punktwerte unter 390)","explizit angegebene Einzelinformationen identifizieren","r7f","",""
+"1.1","unter Minderstandard","","x6b","",""
+"2","Kompetenzstufe II (von 390 bis 464 Punkten)","benachbarte Informationen miteinander verknüpfen","q6e","",""
+"2.1","Minderstandard","","v9v","",""
+"3","Kompetenzstufe III (465 bis 539 Punkten)","verstreute Informationen miteinander verknüpfen und den Text ansatzweise als ganzen erfassen","r2x","",""
+"3.1","Regelstandard","","z4x","",""
+"4","Kompetenzstufe IV (540 bis 614 Punkten)","für die Herstellung von Kohärenz auf der Ebene des Textes wesentliche Aspekte erfassen","t5h","",""
+"4.1","Regelstandard plus","","p2h","",""
+"5","Kompetenzstufe V (615 Punkten und mehr)","auf zentrale Aspekte des Textes bezogene Aussagen selbstständig begründen","f9v","",""
+"5.1","Optimalstandard","","x9p","",""

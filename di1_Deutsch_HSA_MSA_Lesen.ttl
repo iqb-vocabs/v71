@@ -3,48 +3,138 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/>.
 @prefix n0: <https://w3id.org/iqb/v71/di1/>. 
 
+n0:y6y
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "1.1";
+	skos:broader n0:e7f;
+	skos:prefLabel "unter Minderstandard HSA"@de.
+n0:c3u
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "1.2";
+	skos:broader n0:e7f;
+	skos:prefLabel "unter Minderstandard MSA"@de.
 n0:e7f
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "1";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe Ia"@de; 
-	skos:definition "Lokalisieren und Wiedergeben prominenter Einzelinformationen"@de.
+	skos:prefLabel "Kompetenzstufe Ia (bis 349 Punkte)"@de; 
+	skos:definition "Lokalisieren und Wiedergeben prominenter Einzelinformationen"@de;
+	skos:narrower 
+		n0:y6y,
+		n0:c3u.
+n0:s3x
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "2.1";
+	skos:broader n0:z4c;
+	skos:prefLabel "Minderstandard HSA"@de.
+n0:q5v
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "2.2";
+	skos:broader n0:z4c;
+	skos:prefLabel "unter Minderstandard MSA"@de.
 n0:z4c
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "2";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe Ib"@de; 
-	skos:definition "Benachbarte Informationen miteinander verknüpfen"@de.
+	skos:prefLabel "Kompetenzstufe Ib (350 bis 419 Punkte)"@de; 
+	skos:definition "Benachbarte Informationen miteinander verknüpfen"@de;
+	skos:narrower 
+		n0:s3x,
+		n0:q5v.
+n0:x4d
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "3.1";
+	skos:broader n0:g4r;
+	skos:prefLabel "Regelstandard HSA"@de.
+n0:g3v
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "3.2";
+	skos:broader n0:g4r;
+	skos:prefLabel "Minderstandard MSA"@de.
 n0:g4r
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "3";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe II"@de; 
-	skos:definition "Informationen miteinander verknüpfen und Textstrukturen erfassen"@de.
+	skos:prefLabel "Kompetenzstufe II (420 bis 499 Punkte)"@de; 
+	skos:definition "Informationen miteinander verknüpfen und Textstrukturen erfassen"@de;
+	skos:narrower 
+		n0:x4d,
+		n0:g3v.
+n0:v7f
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "4.1";
+	skos:broader n0:g6p;
+	skos:prefLabel "Regelstandard plus HSA"@de.
+n0:y4b
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "4.2";
+	skos:broader n0:g6p;
+	skos:prefLabel "Regelstandard  MSA"@de.
 n0:g6p
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "4";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe III"@de; 
-	skos:definition "Verstreute Informationen miteinander verknüpfen und den Text ansatzweise als Ganzen erfassen"@de.
+	skos:prefLabel "Kompetenzstufe III (500 bis 579 Punkte)"@de; 
+	skos:definition "Verstreute Informationen miteinander verknüpfen und den Text ansatzweise als Ganzen erfassen"@de;
+	skos:narrower 
+		n0:v7f,
+		n0:y4b.
+n0:f2y
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "5.1";
+	skos:broader n0:t7p;
+	skos:prefLabel "Optimalstandard HSA"@de.
+n0:p7h
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "5.2";
+	skos:broader n0:t7p;
+	skos:prefLabel "Regelstandard plus MSA"@de.
 n0:t7p
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "5";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe IV"@de; 
-	skos:definition "Auf der Ebene des Textes wesentliche Zusammenhänge erkennen und die Textgestaltung reflektieren"@de.
+	skos:prefLabel "Kompetenzstufe IV (580 bis 659 Punkte)"@de; 
+	skos:definition "Auf der Ebene des Textes wesentliche Zusammenhänge erkennen und die Textgestaltung reflektieren"@de;
+	skos:narrower 
+		n0:f2y,
+		n0:p7h.
+n0:y7h
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "6.1";
+	skos:broader n0:r9s;
+	skos:prefLabel "Optimalstandard HSA"@de.
+n0:t6c
+	 a skos:Concept;
+	skos:inScheme n0:;
+	skos:notation "6.2";
+	skos:broader n0:r9s;
+	skos:prefLabel "Optimalstandard MSA"@de.
 n0:r9s
 	 a skos:Concept;
 	skos:inScheme n0:;
-	skos:notation "";
+	skos:notation "6";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe V"@de; 
-	skos:definition "Interpretieren, Begründen und Bewerten"@de.
+	skos:prefLabel "Kompetenzstufe V (ab 660 Punkten)"@de; 
+	skos:definition "Interpretieren, Begründen und Bewerten"@de;
+	skos:narrower 
+		n0:y7h,
+		n0:t6c.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
