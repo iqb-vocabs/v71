@@ -42,8 +42,8 @@ n0:f2h
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Mathematik"@de;
-	dct:description "Kompetenzstufenmodell zu den Bildungsstandards für den Mittleren Schulabschluss im Fach Mathematik"@de;
+	dct:title "Kompetenzstufenmodelle - Mathematik HSA und MSA"@de;
+	dct:description "Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Mathematik"@de;
 	skos:hasTopConcept
 		n0:t6u,
 		n0:b5u,

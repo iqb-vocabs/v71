@@ -42,9 +42,8 @@ n0:p3u
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Teilbereich Orthografie – Rechtschreiben"@de;
-	dc:title "Kompetenzstufenmodelle - Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Teilbereich Orthografie – Rechtschreiben"@de;
-	dc:description "Kompetenzstufenmodelle - Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Teilbereich Orthografie – Rechtschreiben"@de;
+	dct:title "Kompetenzstufenmodelle - Deutsch HSA und MSA - Orthografie"@de;
+	dct:description "Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Teilbereich Orthografie – Rechtschreiben"@de;
 	skos:hasTopConcept
 		n0:d3s,
 		n0:v5a,

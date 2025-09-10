@@ -41,9 +41,8 @@ n0:e3b
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Kompetenzstufenmodelle zu den Bildungsstandards im Kompetenzbereich Schreiben, Teilbereich freies Schreiben für den Mittleren Schulabschluss"@de;
-	dc:title "Kompetenzstufenmodelle - Kompetenzstufenmodelle zu den Bildungsstandards im Kompetenzbereich Schreiben, Teilbereich freies Schreiben für den Mittleren Schulabschluss"@de;
-	dc:description "Kompetenzstufenmodelle - Kompetenzstufenmodelle zu den Bildungsstandards im Kompetenzbereich Schreiben, Teilbereich freies Schreiben für den Mittleren Schulabschluss"@de;
+	dct:title "Kompetenzstufenmodelle - Deutsch MSA - Schreiben"@de;
+	dct:description "Kompetenzstufenmodelle zu den Bildungsstandards im Kompetenzbereich Schreiben, Teilbereich freies Schreiben für den Mittleren Schulabschluss"@de;
 	skos:hasTopConcept
 		n0:h9h,
 		n0:x7c,

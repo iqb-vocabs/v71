@@ -48,9 +48,8 @@ n0:r9s
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Lesen – mit Texten und Medien umgehen"@de;
-	dc:title "Kompetenzstufenmodelle - Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Lesen – mit Texten und Medien umgehen"@de;
-	dc:description "Kompetenzstufenmodelle - Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Lesen – mit Texten und Medien umgehen"@de;
+	dct:title "Kompetenzstufenmodelle - Deutsch HSA und MSA - Lesen"@de;
+	dct:description "Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Lesen – mit Texten und Medien umgehen"@de;
 	skos:hasTopConcept
 		n0:e7f,
 		n0:z4c,

@@ -96,9 +96,8 @@ n0:g6d
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Leseverstehen -"@de;
-	dc:title "Kompetenzstufenmodelle - Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Leseverstehen -"@de;
-	dc:description "Kompetenzstufenmodelle - Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Leseverstehen -"@de;
+	dct:title "Kompetenzstufenmodelle - Englisch HSA und MSA - Leseverstehen"@de;
+	dct:description "Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Leseverstehen -"@de;
 	skos:hasTopConcept
 		n0:u2c,
 		n0:g7p,

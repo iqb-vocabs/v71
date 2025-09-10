@@ -96,9 +96,8 @@ n0:t6f
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Kompetenzstufenmodelle zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss - Leseverstehen -"@de;
-	dc:title "Kompetenzstufenmodelle - Kompetenzstufenmodelle zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss - Leseverstehen -"@de;
-	dc:description "Kompetenzstufenmodelle - Kompetenzstufenmodelle zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss - Leseverstehen -"@de;
+	dct:title "Kompetenzstufenmodelle - Französisch MSA - Leseverstehen"@de;
+	dct:description "Kompetenzstufenmodelle zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss - Leseverstehen -"@de;
 	skos:hasTopConcept
 		n0:u9d,
 		n0:b2d,

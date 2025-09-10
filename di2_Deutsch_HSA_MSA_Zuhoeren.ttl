@@ -48,9 +48,8 @@ n0:e3e
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Sprechen und Zuhören, Teilbereich Zuhören"@de;
-	dc:title "Kompetenzstufenmodelle - Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Sprechen und Zuhören, Teilbereich Zuhören"@de;
-	dc:description "Kompetenzstufenmodelle - Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Sprechen und Zuhören, Teilbereich Zuhören"@de;
+	dct:title "Kompetenzstufenmodelle - Deutsch HSA und MSA - Zuhören"@de;
+	dct:description "Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Kompetenzbereich Sprechen und Zuhören, Teilbereich Zuhören"@de;
 	skos:hasTopConcept
 		n0:q2g,
 		n0:b5x,

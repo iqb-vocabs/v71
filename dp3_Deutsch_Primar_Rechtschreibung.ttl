@@ -36,9 +36,8 @@ n0:y9a
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Schreiben“, Teilbereich „Rechtschreibung“ – Primarbereich –"@de;
-	dc:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Schreiben“, Teilbereich „Rechtschreibung“ – Primarbereich –"@de;
-	dc:description "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Schreiben“, Teilbereich „Rechtschreibung“ – Primarbereich –"@de;
+	dct:title "Kompetenzstufenmodelle - Deutsch Primar - Rechtschreibung"@de;
+	dct:description "Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Schreiben“, Teilbereich „Rechtschreibung“ – Primarbereich –"@de;
 	skos:hasTopConcept
 		n0:v2r,
 		n0:b5b,

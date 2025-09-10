@@ -96,9 +96,8 @@ n0:p4r
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Hörverstehen -"@de;
-	dc:title "Kompetenzstufenmodelle - Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Hörverstehen -"@de;
-	dc:description "Kompetenzstufenmodelle - Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Hörverstehen -"@de;
+	dct:title "Kompetenzstufenmodelle - Englisch HSA und MSA - Hörverstehen"@de;
+	dct:description "Integrierte Kompetenzstufenmodelle zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Englisch - Hörverstehen -"@de;
 	skos:hasTopConcept
 		n0:z9y,
 		n0:f7g,

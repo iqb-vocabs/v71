@@ -36,8 +36,8 @@ n0:p2p
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Fach Mathematik für den Primarbereich (Jahrgangsstufe 4)"@de;
-	dct:description "Kompetenzstufenmodell zu den Bildungsstandards im Fach Mathematik für den Primarbereich (Jahrgangsstufe 4). Globalmodell"@de;
+	dct:title "Kompetenzstufenmodelle - Mathematik Primar"@de;
+	dct:description "Kompetenzstufenmodell zu den Bildungsstandards im Fach Mathematik für den Primarbereich (Jahrgangsstufe 4)"@de;
 	skos:hasTopConcept
 		n0:a9d,
 		n0:e3y,

@@ -41,9 +41,8 @@ n0:c5h
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Sprechen und Zuhören“ – Primarbereich –"@de;
-	dc:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Sprechen und Zuhören“ – Primarbereich –"@de;
-	dc:description "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Sprechen und Zuhören“ – Primarbereich –"@de;
+	dct:title "Kompetenzstufenmodelle - Deutsch Primar - Zuhören "@de;
+	dct:description "Kompetenzstufenmodell zu den Bildungsstandards für das Fach Deutsch im Kompetenzbereich „Sprechen und Zuhören“ – Primarbereich –"@de;
 	skos:hasTopConcept
 		n0:r2r,
 		n0:q4u,

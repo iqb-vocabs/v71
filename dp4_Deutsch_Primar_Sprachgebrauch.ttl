@@ -36,9 +36,8 @@ n0:a9v
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Fach Deutsch im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Primarbereich"@de;
-	dc:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Fach Deutsch im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Primarbereich"@de;
-	dc:description "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Fach Deutsch im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Primarbereich"@de;
+	dct:title "Kompetenzstufenmodelle - Deutsch Primar - Sprachgebrauch"@de;
+	dct:description "Kompetenzstufenmodell zu den Bildungsstandards im Fach Deutsch im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Primarbereich"@de;
 	skos:hasTopConcept
 		n0:y4t,
 		n0:b4a,

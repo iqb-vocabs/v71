@@ -96,9 +96,8 @@ n0:p2p
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss -Hörverstehen-"@de;
-	dc:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss -Hörverstehen-"@de;
-	dc:description "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss -Hörverstehen-"@de;
+	dct:title "Kompetenzstufenmodelle - Französisch MSA - Hörverstehen"@de;
+	dct:description "Kompetenzstufenmodell zu den Bildungsstandards im Fach Französisch für den Mittleren Schulabschluss - Hörverstehen -"@de;
 	skos:hasTopConcept
 		n0:s5c,
 		n0:d4c,

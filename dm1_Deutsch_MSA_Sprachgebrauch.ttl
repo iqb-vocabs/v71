@@ -41,9 +41,8 @@ n0:c4x
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
-	dct:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Mittleren Schulabschluss"@de;
-	dc:title "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Mittleren Schulabschluss"@de;
-	dc:description "Kompetenzstufenmodelle - Kompetenzstufenmodell zu den Bildungsstandards im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Mittleren Schulabschluss"@de;
+	dct:title "Kompetenzstufenmodelle - Deutsch MSA - Sprachgebrauch"@de;
+	dct:description "Kompetenzstufenmodell zu den Bildungsstandards im Kompetenzbereich Sprache und Sprachgebrauch untersuchen für den Mittleren Schulabschluss"@de;
 	skos:hasTopConcept
 		n0:q6a,
 		n0:u4h,
