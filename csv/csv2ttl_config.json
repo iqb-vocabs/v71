@@ -265,6 +265,108 @@
             "value": "Kompetenzstufenmodell zu den Bildungsstandards im Fach Mathematik für den Primarbereich (Jahrgangsstufe 4)"
           }
         ]
+      },
+      {
+        "id": "bm1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Biologie MSA - Umgang mit Fachwissen"
+          }
+        ],
+        "filenameSource": "bm1_Biologie_MSA_Umgang_mit_Fachwissen.csv",
+        "filenameTarget": "bm1_Biologie_MSA_Umgang_mit_Fachwissen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Kompetenzstufenmodelle zu den Bildungsstandards im Fach Biologie für den Mittleren Schulabschluss\n\nKompetenzbereiche „Umgang mit Fachwissen“\"\""
+          }
+        ]
+      },
+      {
+        "id": "bm2",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Biologie MSA - Erkenntnisgewinnung"
+          }
+        ],
+        "filenameSource": "bm2_Biologie_MSA_Erkenntnisgewinnung.csv",
+        "filenameTarget": "bm2_Biologie_MSA_Erkenntnisgewinnung.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Kompetenzstufenmodelle zu den Bildungsstandards im Fach Biologie für den Mittleren Schulabschluss\n\nKompetenzbereiche „Erkenntnisgewinnung“\"\""
+          }
+        ]
+      },
+      {
+        "id": "cm1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Chemie MSA - Umgang mit Fachwissen"
+          }
+        ],
+        "filenameSource": "cm1_Chemie_MSA_Umgang_mit_Fachwissen.csv",
+        "filenameTarget": "cm1_Chemie_MSA_Umgang_mit_Fachwissen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Kompetenzstufenmodelle zu den Bildungsstandards im Fach Chemie für den Mittleren Schulabschluss\n\nKompetenzbereiche „Umgang mit Fachwissen“\"\""
+          }
+        ]
+      },
+      {
+        "id": "cm2",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Chemie MSA - Erkenntnisgewinnung"
+          }
+        ],
+        "filenameSource": "cm2_Chemie_MSA_Erkenntnisgewinnung.csv",
+        "filenameTarget": "cm2_Chemie_MSA_Erkenntnisgewinnung.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Kompetenzstufenmodelle zu den Bildungsstandards im Fach Chemie für den Mittleren Schulabschluss\n\nKompetenzbereiche „Erkenntnisgewinnung“\"\""
+          }
+        ]
+      },
+      {
+        "id": "am1",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Physik MSA - Umgang mit Fachwissen"
+          }
+        ],
+        "filenameSource": "am1_Physik_MSA_Umgang_mit_Fachwissen.csv",
+        "filenameTarget": "am1_Physik_MSA_Umgang_mit_Fachwissen.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Kompetenzstufenmodelle zu den Bildungsstandards im Fach Physik für den Mittleren Schulabschluss\n\nKompetenzbereiche „Umgang mit Fachwissen“\"\""
+          }
+        ]
+      },
+      {
+        "id": "am2",
+        "title": [
+          {
+            "lang": "de",
+            "value": "Physik MSA - Erkenntnisgewinnung"
+          }
+        ],
+        "filenameSource": "am2_Physik_MSA_Erkenntnisgewinnung.csv",
+        "filenameTarget": "am2_Physik_MSA_Erkenntnisgewinnung.ttl",
+        "description": [
+          {
+            "lang": "de",
+            "value": "\"\"Kompetenzstufenmodelle zu den Bildungsstandards im Fach Physik für den Mittleren Schulabschluss\n\nKompetenzbereiche „Erkenntnisgewinnung“\"\""
+          }
+        ]
       }
     ]
   }

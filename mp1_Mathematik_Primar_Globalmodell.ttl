@@ -8,31 +8,36 @@ n0:a9d
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe I"@de.
+	skos:prefLabel "Stufe I"@de; 
+	skos:definition "technische Grundlagen (Routineprozeduren auf Grundlage einfachen begrifflichen Wissens)"@de.
 n0:e3y
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe II"@de.
+	skos:prefLabel "Stufe II"@de; 
+	skos:definition "einfache Anwendungen von Grundlagenwissen (Routineprozeduren in einem klar strukturierten Kontext)"@de.
 n0:a5v
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe III"@de.
+	skos:prefLabel "Stufe III"@de; 
+	skos:definition "einfache Anwendungen von Grundlagenwissen (Routineprozeduren in einem klar strukturierten Kontext)"@de.
 n0:c2q
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe IV"@de.
+	skos:prefLabel "Stufe IV"@de; 
+	skos:definition "sicheres und flexibles Anwenden von begrifflichem Wissen und Prozeduren im curricularen Umfang"@de.
 n0:p2p
 	 a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
-	skos:prefLabel "Kompetenzstufe V"@de.
+	skos:prefLabel "Stufe V"@de; 
+	skos:definition "Modellierung komplexer Probleme unter selbstständiger Entwicklung geeigneter Strategien"@de.
 n0:
 	a skos:ConceptScheme;
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
