@@ -4,42 +4,42 @@
 @prefix n0: <https://w3id.org/iqb/v71/di3/>. 
 
 n0:d3s
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe Ia"@de; 
 	skos:definition "Phonographische und einfache silbische Schreibungen sowie Großschreibung von Konkreta"@de.
 n0:v5a
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe Ib"@de; 
 	skos:definition "Ansatzweise Markierung von Vokalkürze und Vokallänge, Schreibungen mit konsonantischen und vokalischen Ableitungen sowie Großschreibung von Abstrakta"@de.
 n0:p3e
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe II"@de; 
 	skos:definition "Teilweise Beachtung von Morphemkonstanz, Großschreibung von Nominalisierungen und Zeichensetzung"@de.
 n0:t2z
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe III"@de; 
 	skos:definition "Weitgehendes Beherrschen von Wortschreibungs- und Zeichensetzungsregeln"@de.
 n0:s5f
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe IV"@de; 
 	skos:definition "Identifizierung von Fehlerschwerpunkten, Ableitung von Rechtschreibregeln und Beherrschen der Zeichensetzung"@de.
 n0:p3u
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
@@ -50,6 +50,7 @@ n0:
 	dct:creator "IQB - Institut zur Qualitätsentwicklung im Bildungswesen"@de;
 	dct:title "Kompetenzstufenmodelle - Deutsch HSA und MSA - Orthografie"@de;
 	dct:description "Integriertes Kompetenzstufenmodell zu den Bildungsstandards für den Hauptschulabschluss und den Mittleren Schulabschluss im Fach Deutsch für den Teilbereich Orthografie – Rechtschreiben"@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:d3s,
 		n0:v5a,

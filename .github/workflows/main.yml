@@ -26,7 +26,7 @@ jobs:
           npm run run_ttl
       - name: Update ttl
         run: |
-          git config --global user.email yan.ping.chen.lin@iqb.github.com
+          git config --global user.email yan.ping.chen.lin@iqb.hu-berlin.de
           git config --global user.name "Yan Ping Chen Lin"
           git add .
           git diff-index --quiet HEAD || git commit -m 'Updating ttl with Github Actions'

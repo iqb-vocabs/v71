@@ -4,35 +4,35 @@
 @prefix n0: <https://w3id.org/iqb/v71/cm1/>. 
 
 n0:y5a
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe I"@de; 
 	skos:definition "Identifizieren von Fakten und Phänomenen"@de.
 n0:z7q
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe II"@de; 
 	skos:definition "Beschreiben von Zusammenhängen und Übertragen auf ähnliche Situationen"@de.
 n0:f7q
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe III"@de; 
 	skos:definition "Anwendung der Basiskonzepte auf einfache Beispiele"@de.
 n0:g4s
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe IV"@de; 
 	skos:definition "Selbstständige Anwendung der Basiskonzepte"@de.
 n0:v2q
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
@@ -45,6 +45,7 @@ n0:
 	dct:description """Kompetenzstufenmodelle zu den Bildungsstandards im Fach Chemie für den Mittleren Schulabschluss
 
 Kompetenzbereiche „Umgang mit Fachwissen“"""@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:y5a,
 		n0:z7q,

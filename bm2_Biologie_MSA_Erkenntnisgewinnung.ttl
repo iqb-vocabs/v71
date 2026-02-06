@@ -4,35 +4,35 @@
 @prefix n0: <https://w3id.org/iqb/v71/bm2/>. 
 
 n0:t7x
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe I"@de; 
 	skos:definition "Erkennen von Elementen naturwissenschaftlicher Erkenntnisgewinnung"@de.
 n0:r6g
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe II"@de; 
 	skos:definition "Nutzen von Elementen naturwissenschaftlicher Erkenntnisgewinnung"@de.
 n0:t4y
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe III"@de; 
 	skos:definition "Anwenden und Begründen von Methoden naturwissenschaftlicher Erkenntnisgewinnung"@de.
 n0:f6u
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
 	skos:prefLabel "Kompetenzstufe IV"@de; 
 	skos:definition "Erklären und Prüfen von Methoden naturwissenschaftlicher Erkenntnisgewinnung in komplexen Zusammenhängen"@de.
 n0:d6e
-	 a skos:Concept;
+	a skos:Concept;
 	skos:inScheme n0:;
 	skos:notation "";
 	skos:topConceptOf n0:;
@@ -45,6 +45,7 @@ n0:
 	dct:description """Kompetenzstufenmodelle zu den Bildungsstandards im Fach Biologie für den Mittleren Schulabschluss
 
 Kompetenzbereiche „Erkenntnisgewinnung“"""@de;
+	dct:license <https://creativecommons.org/publicdomain/zero/1.0/deed.de>;
 	skos:hasTopConcept
 		n0:t7x,
 		n0:r6g,
